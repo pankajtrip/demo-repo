@@ -1,0 +1,22 @@
+h1{
+          color: blue;
+          text-transform: uppercase;
+          text-align: center;
+}
+ol{color: green;
+}
+h2{
+          color: blue;
+          text-transform: uppercase;
+          text-align: center;
+}
+table{  color: black;
+          border-style: solid;
+         
+          
+}
+th ,td{color: blue;
+border: 10px;
+text-align: center;
+}
+*{background-color:pink;}
